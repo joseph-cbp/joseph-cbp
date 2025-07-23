@@ -3,6 +3,7 @@
 Sou **Desenvolvedor iOS** com experiência em **Swift** e **SwiftUI**, atuando no desenvolvimento de aplicativos nativos com foco em **qualidade, escalabilidade e boas práticas de engenharia de software**.
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e participo da **Apple Developer Academy | Manaus**. 
+
 Tenho alguns projetos pinnados, fique a vontade para análisar e entrar em contato.
 
 ## 🛠 Competências Técnicas
