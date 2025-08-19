@@ -13,18 +13,19 @@ Fique à vontade para explorar meus projetos e entrar em contato.
 | Área | Tecnologias e Conceitos |
 | :--- | :--- |
 | **Desenvolvimento iOS** | Swift, SwiftUI, UIKit (ViewCode) |
-| **Arquitetura & Boas Práticas** | MVC, MVVM-C, VIP, SOLID, Design Patterns, Delegate Pattern |
+| **Arquitetura & Boas Práticas** | MVC, MVVM-C, VIP, Delegate Pattern |
 | **Persistência de Dados** | UserDefaults, CoreData, SwiftData |
 | **Consumo de APIs** | URLSession, Combine, APIs REST |
 | **Testes** | XCTest (testes unitários) |
 
 ### Desenvolvimento Web
+| Área | Tecnologias e Conceitos |
 | :--- | :--- |
 | **Frontend** | HTML, CSS, JavaScript, Node.js, React |
 | **Backend** | Java, Spring |
 | **Banco de Dados** | SQL (conceitos de transações ACID) |
 | **Metodologias** | Scrum, Jira |
-| **Outros** | Lógica de programação, Algoritmos e Estruturas de Dados, UX/UI (Figma, HIG) |
+| **Outros** | Lógica de programação, Algoritmos e Estruturas de Dados, SOLID, Design Patterns, UX/UI (Figma, HIG) |
 
 <!--
 ## 🛠 Tech Stack
