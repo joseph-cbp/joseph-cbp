@@ -1,19 +1,32 @@
 # 👋 Olá, eu sou Joseph Pereira
+<br/>
 
-Sou **Desenvolvedor iOS** com experiência em **Swift** e **SwiftUI**, atuando no desenvolvimento de aplicativos nativos com foco em **qualidade, escalabilidade e boas práticas de engenharia de software**.
+Atualmente atuo como **Desenvolvedor iOS** focado em criar aplicativos nativos com **Swift** e **SwiftUI**. Minha paixão é entregar produtos de **qualidade, escalabilidade e boas práticas de engenharia de software**.
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e participo da **Apple Developer Academy | Manaus**. 
+Estou aprofundando meus conhecimentos em **Análise e Desenvolvimento de Sistemas** e sou aluno da **Apple Developer Academy | Manaus**.
 
-Tenho alguns projetos pinnados, fique a vontade para análisar e entrar em contato.
+Fique à vontade para explorar meus projetos e entrar em contato.
 
-## 🛠 Competências Técnicas
-- **Linguagens e Frameworks:** Swift, SwiftUI, UIKit(ViewCode)
-- **Arquitetura e Boas Práticas:** MVC, MVVM-C, VIP, SOLID, Design Patterns, Delegate Pattern
-- **Ferramentas:** Xcode, Git, GitHub Actions, Fastlane
-- **Testes e Qualidade:** XCTest
-- **Persistência de Dados:** UserDefaults, CoreData, SwiftData
-- **Consumo de APIs:** URLSession, Combine
+## 🛠 Stacks
 
+### Desenvolvimento Mobile (iOS nativo)
+| Área | Tecnologias e Conceitos |
+| :--- | :--- |
+| **Desenvolvimento iOS** | Swift, SwiftUI, UIKit (ViewCode) |
+| **Arquitetura & Boas Práticas** | MVC, MVVM-C, VIP, SOLID, Design Patterns, Delegate Pattern |
+| **Persistência de Dados** | UserDefaults, CoreData, SwiftData |
+| **Consumo de APIs** | URLSession, Combine, APIs REST |
+| **Testes** | XCTest (testes unitários) |
+
+### Desenvolvimento Web
+| :--- | :--- |
+| **Frontend** | HTML, CSS, JavaScript, Node.js, React |
+| **Backend** | Java, Spring |
+| **Banco de Dados** | SQL (conceitos de transações ACID) |
+| **Metodologias** | Scrum, Jira |
+| **Outros** | Lógica de programação, Algoritmos e Estruturas de Dados, UX/UI (Figma, HIG) |
+
+<!--
 ## 🛠 Tech Stack
 
 ![Swift](https://img.shields.io/badge/Swift-5.9-orange?logo=swift&logoColor=white)
@@ -38,18 +51,6 @@ Tenho alguns projetos pinnados, fique a vontade para análisar e entrar em conta
 
 ![URLSession](https://img.shields.io/badge/API-URLSession-lightblue)
 ![Combine](https://img.shields.io/badge/API-Combine-purple)
-
-<!--
-**joseph-cbp/joseph-cbp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+
