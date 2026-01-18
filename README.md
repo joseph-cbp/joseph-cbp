@@ -1,11 +1,14 @@
 # 👋 Olá, eu sou Joseph Pereira
 <br/>
 
-Atualmente atuo como **Desenvolvedor iOS** focado em criar aplicativos nativos com **Swift** e **SwiftUI**. Minha paixão é entregar produtos de **qualidade, escalabilidade e boas práticas de engenharia de software**.
+Atuo como Desenvolvedor iOS, com foco no desenvolvimento de aplicativos nativos utilizando Swift, SwiftUI e UIKit. Tenho interesse em construir soluções bem estruturadas, aplicando boas práticas de engenharia de software, arquitetura, legibilidade de código e escalabilidade.
 
-Estou aprofundando meus conhecimentos em **Análise e Desenvolvimento de Sistemas** e sou aluno da **Apple Developer Academy | Manaus**.
+Atualmente curso Análise e Desenvolvimento de Sistemas e sou Alumni da Apple Developer Academy, onde atuei em projetos práticos envolvendo todo o ciclo de desenvolvimento de aplicações, desde a concepção até a publicação.
 
-Fique à vontade para explorar meus projetos e entrar em contato.
+Neste perfil, compartilho projetos pessoais, estudos e experimentos técnicos. Alguns aplicativos publicados na App Store possuem código privado.
+Fique à vontade para explorar os repositórios ou entrar em contato.
+
+Email: joseph.carlosx@gmail.com
 
 ## 🛠 Stacks
 
